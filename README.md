@@ -1,12 +1,12 @@
-## Airdrop ASC Simple Landing Page
+## Airdrop Landing Page
 
 This page should help get you started developing with Vue 3 in Vite.
 
-[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/becc9a45-f339-46bc-9593-0b02c29ce25a)
+[![protocol.land](https://arweave.net/oADpeycpEZWYiTt5n1MBacMXfG7tWrcUwi7h8frON0c)](https://protocol.land/#/repository/a0856f3e-a73e-4a7f-9c8d-41789cc643fa)
 
 ### Live View
 
-Build for Test Deployment on [Arlink](https://asc_arlink.arweave.net/).
+Build for Test Deployment on [Arlink](https://callister_arlink.arweave.net/).
 
 ### Project Setup
 
